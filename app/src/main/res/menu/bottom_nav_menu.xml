@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/formacion"
+        android:title="Formación Académica"
+        android:icon="@drawable/baseline_menu_book_24"/>
+    <item
+        android:id="@+id/datos_p"
+        android:title="Datos Personales"
+        android:icon="@drawable/baseline_person_24"/>
+    <item
+        android:id="@+id/datos_i"
+        android:title="Datos de Interes"
+        android:icon="@drawable/baseline_grade_24"/>
+</menu>
